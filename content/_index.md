@@ -8,14 +8,13 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        ATProto.Science
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        **ATProto Science** is about using ATProto for science applications, such as publishing, curation, data sharing or social discourse around research.
   
   - block: collection
     content:
